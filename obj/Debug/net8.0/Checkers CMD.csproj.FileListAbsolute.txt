@@ -12,3 +12,4 @@ C:\Users\sollu\RiderProjects\Checkers CMD\Checkers CMD\obj\Debug\net8.0\refint\C
 C:\Users\sollu\RiderProjects\Checkers CMD\Checkers CMD\obj\Debug\net8.0\Checkers CMD.pdb
 C:\Users\sollu\RiderProjects\Checkers CMD\Checkers CMD\obj\Debug\net8.0\Checkers CMD.genruntimeconfig.cache
 C:\Users\sollu\RiderProjects\Checkers CMD\Checkers CMD\obj\Debug\net8.0\ref\Checkers CMD.dll
+C:\Users\sollu\RiderProjects\Checkers CMD\Checkers CMD\obj\Debug\net8.0\Checkers CMD.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checkers CMD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf198c50513933700dd0c5edc8f33078663babb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checkers CMD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checkers CMD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
